@@ -71,6 +71,7 @@ Table of Contents
 ## SaaS
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
+  * [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
 
 ## PaaS
 
@@ -120,6 +121,7 @@ Table of Contents
 ## Security
 
   * [NameCheap](https://namecheap.com/) [DISCOUNT] - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Shodan](https://www.shodan.io/) [FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 
 ## Software Modeling Tools
 
@@ -143,10 +145,10 @@ Table of Contents
 
 ## 3D Animation and Modeling Software
 
- * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) [FREE] - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
+ * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
 ## Password Managers
- * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Completely free for students and professors with a valid college or university email address (normally $19.95/year)
+ * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
  * [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 ## Infrastructure Monitoring
